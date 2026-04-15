@@ -1,4 +1,3 @@
-```markdown id="inf7kx"
 # Perspectives on indian freedom struggle
 
 ---
@@ -155,7 +154,4 @@ Jyotiba phule’s ghulamgiri
 ---
 
 ## Conclusion
-- Stregnth of dalit perspective is that it makes us understand that nationalsim is based on value of fraternity. Their notion of nationhood was based on abolition of existing inequalities and having equal rights in every sphere of life.  
-```
-
-📄 Source: 
+- Stregnth of dalit perspective is that it makes us understand that nationalsim is based on value of fraternity. Their notion of nationhood was based on abolition of existing inequalities and having equal rights in every sphere of life.

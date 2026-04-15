@@ -1,4 +1,3 @@
-```markdown id="srq4mz"
 # Statutory,regulatory , quasi judicial and constitutional bodies
 
 ---
@@ -385,7 +384,4 @@
 - Lokpal is appointed based on the recommendation of the five-member panel comprising the Prime Minister, the Lok Sabha Speaker, the Leader of the Opposition, the Chief Justice of India and an eminent jurist nominated by the President.  
 - Second ARC-  
   - There should be an organic link between lokpal and CVC to ensure information sharing and prompt action against all persons involved.  
-  - System of local bodies ombudsman maybe established  
-```
-
-📄 Source: 
+- System of local bodies ombudsman maybe established
