@@ -1,4 +1,3 @@
-```markdown id="fed9kx"
 # Federalism: constitutional provisions ; changing nature of centre state relations; integrationist tendencies and regional aspirations; inter state disputes.
 
 ---
@@ -149,6 +148,3 @@
 
 ## Conclusion
 - PM Modi- Federalism is no longer the fault line of Centre state relations but the definition of a new partnership of team India  
-```
-
-📄 Source: 

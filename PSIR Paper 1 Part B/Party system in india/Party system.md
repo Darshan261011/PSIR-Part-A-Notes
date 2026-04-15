@@ -1,4 +1,3 @@
-```markdown id="psys8kx"
 # Party system in India
 
 ---
@@ -205,6 +204,3 @@
 
 ## Conclusion
 - The growing salience of regional parties in the national decision-making process in the present era shows the participatory strength of Indian federalism  
-```
-
-📄 Source: 
