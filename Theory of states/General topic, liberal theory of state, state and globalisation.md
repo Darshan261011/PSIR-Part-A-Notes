@@ -1,5 +1,29 @@
 # General topic, liberal theory of state, state and globalisation :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Sovereignity](#sovereignity)
+- [Theories of sovereignity](#theories-of-sovereignity-)
+  - [Monistic theory](#monistic-theory)
+  - [Pluralist theory](#pluralist-theory-)
+- [Critical evaluation of pluralists](#critical-evaluation-of-pluralists-)
+- [Globalisation and state](#globalisation-and-state-)
+  - [Context](#context)
+- [3 school of thought on interaction b/w globalization and sovereignty](#3-school-of-thought-on-interaction-bw-globalization-and-sovereignty)
+  - [Globalists](#globalists)
+  - [State centric](#state-centric)
+  - [Transformationalists](#transformationlists)
+- [Globalisation effects](#globalisation-effects)
+- [In conclusion](#in-conclusion-)
+- [Liberal theory of state](#liberal-theory-of-state)
+  - [Two schools](#two-schools)
+- [Feminist theory of state](#feminist-theory-of-state)
+  - [Catherine mackinnon](#catherine-mackinnona-radical-feminist)
+- [Conclusion](#conclusion)
+
+---
+
 ## Intro:
 - The study of state has been one of the most important concepts in normative political theory.
 
@@ -13,11 +37,11 @@
 #### Exponents:
 
 1. Hobbes
-- established supremacy of postive law ie law given by state over natural/customary laws.
-- Say sovereignity , a permanent characteristic of state , is inalienable and indivisible
+   - established supremacy of postive law ie law given by state over natural/customary laws.
+   - Say sovereignity , a permanent characteristic of state , is inalienable and indivisible
 
 2. John Austin
-- book - Lectures on jurisprudence
+   - book - Lectures on jurisprudence
 
 ### Pluralist theory-
 
@@ -87,43 +111,43 @@
 - In agricultural policies, states need to adhere to WTO’s policies of Agreement on agriculture
 
 1. marshall mcluhan
-- concept of global village, ie technology has compressed the globe into a village.
+   - concept of global village, ie technology has compressed the globe into a village.
 
 b. Kenichi ohmae
-- calls the world as “borderless village.”
+   - calls the world as "borderless village."
 
 c. Thomas Friedman
-- The world is flat. Says globalisation has led to deterritorialisation of state.
+   - The world is flat. Says globalisation has led to deterritorialisation of state.
 
 ### State centric
 
 1. Robert gilpin
-- a realist hence state is the prime actor for him. States in command of globalisation.Shells of sovereignty have remained intact
+   - a realist hence state is the prime actor for him. States in command of globalisation.Shells of sovereignty have remained intact
 
 3. the state has been coming to fore and assuming greater powers after events like 9/11, 2008 financial crisis and covid19 crisis, with sealing of borders, limiting international trade, etc
 
 4. md ayoob
-- in the backdrop kf covid, the percept that “the nation state is dead” has been turned on its head and replaced with “long live the nation state.”
+   - in the backdrop kf covid, the percept that "the nation state is dead" has been turned on its head and replaced with "long live the nation state."
 
 5. Stanley hoffmann
-- Nationstates are unlikely to embrace abstract obligations that clash with concrete calculations of national interest
+   - Nationstates are unlikely to embrace abstract obligations that clash with concrete calculations of national interest
 
 6. In China-
-- a. the state has been cracking down on large corporates and capitalists. Global times- capital cannot dominate the country and it must not influence politics.
-- b. “The great firewall” to prevent people of Chine to access foreign websites like Twitter, Facebook, Google.
+   - a. the state has been cracking down on large corporates and capitalists. Global times- capital cannot dominate the country and it must not influence politics.
+   - b. "The great firewall" to prevent people of Chine to access foreign websites like Twitter, Facebook, Google.
 
 ### Transformationlists
 
 - globalisation and sovereignty is not a zero sum game
 
 1. David held
-- gives a balanced view. Globalization and sovereignity not a zero sum game. China is economically globalised but does not allow twitter,google,WA to operate from its territory.
+   - gives a balanced view. Globalization and sovereignity not a zero sum game. China is economically globalised but does not allow twitter,google,WA to operate from its territory.
 
 2. Bob Jesop
-- we are witnessing both. In some aspect, globalisation is winning and in other respects states are holding the power
+   - we are witnessing both. In some aspect, globalisation is winning and in other respects states are holding the power
 
 3. Georg sorenson
-- Gobalisation has not diluted the sovereignty of state in equal amounts . Lesser impact on powerful states and more impact on weaker states
+   - Gobalisation has not diluted the sovereignty of state in equal amounts . Lesser impact on powerful states and more impact on weaker states
 
 ## Globalisation effects:
 
@@ -148,10 +172,10 @@ c. Thomas Friedman
 ### two schools:
 
 a. nightwatchman(classical):
-- Lockean idea of state, adam smith, robert nozick, FA Hayek,
+   - Lockean idea of state, adam smith, robert nozick, FA Hayek,
 
 b. welfare(modern):
-- laski, THGreen, Rawls, amartya sen.
+   - laski, THGreen, Rawls, amartya sen.
 
 ## Feminist theory of state
 

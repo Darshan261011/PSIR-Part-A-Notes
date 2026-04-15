@@ -1,5 +1,17 @@
 # Fascism
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Inspirations](#inspirations)
+- [Causes of fascism](#causes-of-fascism)
+- [Features of fascism](#features-of-fascism)
+- [Criticism](#criticism)
+- [Contemporary](#contemporary)
+- [Conclusion](#conclusion)
+
+---
+
 ### Intro
 * **Fascism** is derived from the word Fascio which means a bundle of rods, symbolising discipline, unity and strength. 
 * During the second world war it meant all those who bound themselves together to "live and die for the good of Italy."

@@ -1,5 +1,17 @@
 # Buddhist Political Thought
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Ideas](#ideas)
+  - [Digha nikaya talks about origin of state](#digha-nikaya-talks-about-origin-of-state)
+  - [King](#king)
+- [Key Principles](#key-principles)
+- [Perspectives on Kingship](#perspectives-on-kingship)
+- [Conclusion](#conclusion)
+
+---
+
 ## Intro
 * political thought Based on ideals of buddhism
 * emerged around 6th centruy BC during the time of Mahajanapads

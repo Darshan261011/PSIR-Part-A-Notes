@@ -1,5 +1,26 @@
 # Approaches to study political science :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Intro](#intro-)
+- [Pol sci ki bhar bhar k tareef](#pol-sci-ki-bhar-bhar-k-tareef)
+- [Various approaches to study Political science](#various-approaches-to-study-political-science)
+- [Traditional- before WW2 in Europe](#traditional--before-ww2-in-europe)
+  - [1. Philosophical](#1-philosophical-)
+  - [2: historical](#2-historical-)
+  - [3: Empirical](#3-empirical--)
+  - [4: legal constitutional approach](#4-legal-constitutional-approach)
+- [Decline of political theory](#decline-of-political-theory-)
+- [Modern methods](#modern-methods)
+- [Behavioral appraoch](#behavioral-appraoch-)
+  - [Exponents](#exponents-)
+- [achievement of behavioralism](#achievement-of-behavioralism-)
+- [critics of behavioralism](#critics-of-behavioralism)
+- [post-beh: to arrest decline of pol science](#post-beh-to-arrest-decline-of-pol-science)
+- [Conclusion](#conclusion)
+
+---
+
 ## Intro-
 - Political science is a social science dealing with systems of governance and power, and the analysis of politicalactivities, political thought, political behavior, and associated constitutions and laws.
 
@@ -92,35 +113,25 @@
 - Systemisation: The procedure should be systemic. There should be the logical connection b/w the objective of the research & data collected.
 
 - Technique: use scientific technique
-
-- There is very limited area where scientific technique can be employed.
-
-- Behaviouralists compromise the subject matter for sake of technique.
-
-- Political sci has to deal with normative issues.
-
-- In such issues philosophical approach rather than scientific approach will work.
-
-- Behaviouralists bring unnecessary complexity by bringing unnecessary scientific terminology.
+  - There is very limited area where scientific technique can be employed.
+  - Behaviouralists compromise the subject matter for sake of technique.
+  - Political sci has to deal with normative issues.
+  - In such issues philosophical approach rather than scientific approach will work.
+  - Behaviouralists bring unnecessary complexity by bringing unnecessary scientific terminology.
 
 - Verification: For the sake of reliable theories the knowledge should be verified. Thus, experimentation, testing is the basis to accept knowledge.
-
-- pol sci deals with normative issues where verifiability is hardly possible.
+  - pol sci deals with normative issues where verifiability is hardly possible.
 
 - Measurement: The results of the research should be expressed in quantitative terms, so that they are precise.
-
-- Believe quantitative techniques have limited relevance.
+  - Believe quantitative techniques have limited relevance.
 
 - Inter-disciplinary approach:
   - should utilise knowledge found in sociology , psychology, natural sciences & maintain distance from history, philosophy & law.
-
-- Tra: History, philosophy & law are closer to pol sci than natural sciences.
+  - Tra: History, philosophy & law are closer to pol sci than natural sciences.
 
 - Value-free analysis: Clear your value preference in the beginning itself, so that reader can understand the research neutrally.
-
-- Traditionalists say value neutrality is neither possible nor desirable.
-
-- Acc to leo strauss: ignoring value is like inability to make difference b/w clean water and dirty water.
+  - Traditionalists say value neutrality is neither possible nor desirable.
+  - Acc to leo strauss: ignoring value is like inability to make difference b/w clean water and dirty water.
 
 - pure science- by adopting above 7 parameters.
 
@@ -188,9 +199,8 @@
   - c. behaviouralism does not reject values, it rather invites values
   - d. We need to promote such values which contribute to flourishing of human civilisation
   - e. Responsibility of social scientist more than that of natural scientist
-
-- f. Political science is applied science rather than pure science
-- g. Political science is a useful discipline that needs to be actively supported and funded by universities and foundations
+  - f. Political science is applied science rather than pure science
+  - g. Political science is a useful discipline that needs to be actively supported and funded by universities and foundations
 
 - Post behaviouralism and rawls are interlinked as both brought normative values back in the study of political science.
 

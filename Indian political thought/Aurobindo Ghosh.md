@@ -1,5 +1,16 @@
 # Aurobindo Ghosh
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Context](#context)
+- [On nationalism](#on-nationalism)
+  - [Conclusion on answer on Nationalism](#conclusion-on-answer-on-nationalism)
+- [His concept of freedom](#his-concept-of-freedom)
+- [Conclusion](#conclusion)
+
+---
+
 ## Intro
 * Was an indian philosopher, yogi, poet and nationalist belonging to the extremist brand of nationalism
 

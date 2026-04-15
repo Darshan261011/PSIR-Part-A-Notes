@@ -1,5 +1,20 @@
 # Power
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Theories of power](#theories-of-power)
+  - [1. Liberal theory](#1-liberal-theory)
+  - [2. Elitist theory](#2-elitist-theory)
+  - [3. Pluralists](#3-pluralists)
+  - [4. For marxists](#4-for-marxists)
+- [Michael Foucault](#michael-foucault)
+- [Gramsci's theory of power](#gramscis-theory-of-power)
+- [Hannah Arendt](#hannah-arendt)
+- [Conclusion](#conclusion)
+
+---
+
 ## Intro:
 * Max Webber defined power as the ability to force one's own will upon the behaviour of others
 * Power is the central concept of political science What money is to economics, power is to politics

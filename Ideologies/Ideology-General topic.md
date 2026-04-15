@@ -1,5 +1,20 @@
 # Scholars in ideology as general topic
 
+## Table of Contents
+
+- [Origins](#origins)
+- [Critics of ideology](#critics-of-ideology)
+- [End of ideology](#end-of-ideology)
+- [Critics of end of ideology](#critics-of-end-of-ideology)
+- [End of history](#end-of-history)
+- [Criticism of end of history / Clash of Civilisation (COC)](#criticism-of-end-of-history--clash-of-civilisation-coc)
+- [Relevance in present world order](#relevance-in-present-world-order)
+- [Criticism of COC](#criticism-of-coc)
+- [New End of history](#new-end-of-history)
+- [Conclusion](#conclusion)
+
+---
+
 ### Origins
 * Term coined by **claude de tracy** Who called ideology as "science of ideas."
 

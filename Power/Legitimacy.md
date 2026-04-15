@@ -1,5 +1,19 @@
 # Legitimacy
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Theory of legitimacy given by Max Weber](#theory-of-legitimacy-given-by-max-weber)
+  - [Rousseau](#rousseau)
+- [Perspectives on Legitimacy](#perspectives-on-legitimacy)
+- [Crisis of legitimacy](#crisis-of-legitimacy)
+  - [Habermas and Legitimation](#habermas-and-legitimation)
+- [Modern Perspectives](#modern-perspectives)
+- [Conclusion](#conclusion-)
+  - [Three ideal types of authority by Weber](#three-ideal-types-of-authority-by-weber)
+
+---
+
 ## Intro: 
 * Legitimacy is the acceptance of an authority, usually a governing law or regime.
 

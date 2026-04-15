@@ -1,5 +1,26 @@
 # Natural rights and Human rights :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Three gen of rights by Karel Vasak](#three-gen-of-rights-by-karel-vasak)
+- [Natural rights](#natural-rights)
+  - [1. Theory of social contract](#1-theory-of-social-contract)
+  - [2. Thomas Paine](#2-thomas-paine-)
+- [Criticism of natural rights](#criticism-of-natural-rights-)
+  - [1. By legal positivists](#1-by-legal-positivists-bentham-hobbes)
+  - [2. By theory of cultural rights](#2-by-theory-of-cultural-rights-edmund-burke)
+- [Human rights](#human-rights)
+- [Criticism](#criticism)
+- [Asian values](#asian-values-)
+- [Criticism of Asian values](#criticism-of-asian-values-)
+- [Lee Teng Hui](#lee-teng-hui-ex-taiwanese-prez-)
+- [Conception of third generation of rights](#conception-of-third-generation-of-rights-accommodate-cultural-relativist-approach)
+- [Conclusion on rights](#conclusion-on-rights)
+- [Dworkin on rights](#dworkin-on-rights)
+
+---
+
 ## Intro:
 - Harold J laski - rights are those conditions of life, without which no man in general can seek to be at his best - in his book grammar of politics
 

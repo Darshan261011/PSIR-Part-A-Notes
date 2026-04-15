@@ -1,5 +1,22 @@
 # Feminism
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [First wave](#first-wave)
+- [2nd wave - radical feminists](#2nd-wave--radical-feminists)
+  - [Carole Hanisch](#carole-hanisch)
+  - [Rejected essentialism](#rejected-essentialism)
+  - [Catherine mackinnon](#catherine-mackinnon---book--feminism-unmodified-)
+- [Key Exponents](#key-exponents)
+- [Contemporary context](#contemporary-context)
+- [Globalisation and women](#globalisation-and-women)
+  - [Negative](#negative-)
+  - [Positive](#positive-)
+- [Conclusion](#conclusion)
+
+---
+
 ### Introduction
 * **JS mill in his essay- The subjugation of women-** All forms of slavery have been abolished but the slavery of women continues. The discrimination against women is so universal that it appears natural.
 * **Intro-** the belief in the principle that women should have the same rights and opportunities as men. (**Virginia woolf**)

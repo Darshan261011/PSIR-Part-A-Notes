@@ -1,5 +1,24 @@
 # Gandhi
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Inspired by](#inspired-by)
+- [On Rights](#on-rights)
+- [Satyagraha: Struggle for Truth](#satyagraha-struggle-for-truth)
+- [Critic of Modern Civilization](#critic-of-modern-civilization)
+- [Gandhi vs Ambedkar on Social Justice](#gandhi-vs-ambedkar-on-social-justice)
+- [Trusteeship](#trusteeship)
+- [Gandhi and Covid 19](#gandhi-and-covid-19)
+- [On Swaraj](#on-swaraj)
+- [On Nonviolence](#on-nonviolence)
+- [Role in Freedom Struggle](#role-in-freedom-struggle)
+- [Critics](#critics)
+- [Contemporary Relevance](#contemporary-relevance)
+- [Conclusion](#conclusion)
+
+---
+
 ## Intro
 * Was a lawyer, a freedom fighter and one of the most defining personality of the twentieth century.
 

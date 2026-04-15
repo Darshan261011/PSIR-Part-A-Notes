@@ -1,5 +1,20 @@
 # Hobbes :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Context](#context)
+- [His ideas](#his-ideas)
+  - [Adv of positive law](#adv-of-positive-law)
+  - [State absolutism](#state-absolutism)
+  - [Hobbes as a scholar of possessive individualism](#hobbes-as-a-scholar-of-possessive-individualism)
+- [As first modern thinker](#as-first-modern-thinker)
+- [Criticism](#criticism)
+- [Critics of social contract theory](#critics-of-social-contract-theory)
+- [Conclusion](#conclusion)
+
+---
+
 - Hobbes
 
 ## intro:

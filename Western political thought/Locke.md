@@ -1,5 +1,16 @@
 # John Locke :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Context](#context)
+- [His ideas](#his-ideas)
+- [Locke on property](#locke-on-property-)
+- [Criticism](#criticism)
+- [Conclusion](#conclusion)
+
+---
+
 ## intro:
 - known as the “father of liberalism.” He has given theory of natural rights, government by consent and toleration.
 

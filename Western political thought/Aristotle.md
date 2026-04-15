@@ -1,5 +1,23 @@
 # Aristotle :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Similarity b/w guru and chela](#similarity-bw-guru-and-chela)
+- [Difference b/w guru and chela](#difference-bw-guru-and-chela)
+- [His ideas](#his-ideas)
+  - [Theory of justice](#gave-theory-of-justice--)
+  - [Theory of state](#give-theory-of-state-)
+  - [Theory of slavery](#theory-of-slavery)
+  - [Theory of property](#theory-of-property)
+  - [Theory of constitution](#theory-of-constitution)
+  - [Theory of revolution](#theory-of-revolution)
+- [His critics](#his-critics)
+- [Aris an inspiration for](#aris-an-inspirtation-for)
+- [Conclusion](#conclusion)
+
+---
+
 - His work-Politics
 
 ## Intro:

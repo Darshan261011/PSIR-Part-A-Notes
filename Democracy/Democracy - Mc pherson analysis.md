@@ -1,5 +1,16 @@
 # C.B. MacPherson: Analysis of Democracy
 
+## Table of Contents
+- [Source Work](#source-work)
+- [Core Conclusions](#core-conclusions)
+- [Models of Democracy](#models-of-democracy)
+  - [1. Classical](#1-classical)
+  - [2. Contemporary](#2-contemporary)
+- [MacPherson's Critique](#macphersons-critique)
+- [Conclusion (Ludwig Wittgenstein)](#conclusion-ludwig-wittgenstein)
+
+---
+
 ### Source Work
 * **Democratic Theory: Essays in Retrieval**
 

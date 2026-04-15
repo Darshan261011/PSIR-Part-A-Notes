@@ -1,5 +1,19 @@
 # Liberalism
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Classical Liberalism](#classical-liberalism)
+- [Modern Liberalism / Welfare State](#modern-liberalism--welfare-state)
+- [Asian Values](#asian-values)
+- [Libertarianism / Neoliberalism / Washington Consensus](#libertarianism--neoliberalism--washington-consensus)
+- [Cornwall Consensus](#cornwall-consensus)
+- [Social Liberals / Liberal Egalitarians](#social-liberals--liberal-egalitarians)
+- [Freedom & Liberty](#freedom--liberty)
+- [Conclusion](#conclusion)
+
+---
+
 ### Introduction
 * **Liberalism** is a political doctrine that takes protecting and enhancing individual freedom to be the central theme of politics.
 * **Chronology:** Classical $\rightarrow$ modern $\rightarrow$ neo $\rightarrow$ social liberal

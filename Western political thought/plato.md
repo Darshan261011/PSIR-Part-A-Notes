@@ -1,5 +1,33 @@
 # Plato, socrates :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Socrates](#socrates)
+- [PLATO](#plato)
+  - [Introduction](#introduction)
+  - [Context](#context)
+  - [Why athens lost to sparta in the Peloponnesian war](#why-athens-lost-to-sparta-in-the-peloponnesian-war)
+  - [His ideas](#his-ideas-)
+- [Theory of ideas](#theory-of-ideas-)
+- [Theory of souls / myth of metals - Kallipolis](#theory-of-souls-myth-of-metals--kallipolis--a-just-city-there-are-three-classes-of-men)
+- [Theory of communism](#theory-of-communism-only-for-guardian-classrulers--soldiers)
+- [Plato vs Marx communism](#plato-vs-marx-communism)
+- [Theory of philosopher king](#theory-of-philosopher-king)
+- [Theory of Justice](#theory-of-justice-)
+  - [Interlinking on justice](#interlinking-on-justice)
+- [Theory of education](#theory-of-education)
+  - [Elements of theory of education](#elements-of-theory-of-education)
+- ["State is individual writ large"](#state-is-individual-writ-large)
+- [As first feminist](#as-first-feminist)
+- ["For no law is mightier than knowledge"](#for-no-law-is-mightier-than-knowledge)
+- [CRITICS](#critics)
+  - [Aristotle](#aristotle)
+  - [Karl Popper](#karl-popper)
+  - [Isaiah Berlin](#isaiah-berlin)
+- [Conclusion](#conclusion)
+
+---
+
 ## Socrates
 
 1. gave method of dialectics to develop a spirit of enquiry  

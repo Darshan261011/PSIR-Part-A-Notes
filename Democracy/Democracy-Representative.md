@@ -1,5 +1,13 @@
 # Representative dem
 
+## Table of Contents
+- [Theory and Models](#theory-and-models)
+  - [Models of rep demo](#models-of-rep-demo)
+- [Models on decision making power of representatives](#models-on-decision-making-power-of-representatives)
+- [Critics of rep demo: supporters of direct democracy](#critics-of-rep-demo-supporters-of-direct-democracy)
+
+---
+
 * Most universal model
 * **supporters:**
     * **JS Mill**

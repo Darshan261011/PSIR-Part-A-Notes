@@ -1,5 +1,14 @@
 # Ambedkar
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [His ideas](#his-ideas)
+- [On social justice](#on-social-justice)
+- [Conclusion](#conclusion)
+
+---
+
 ### Introduction
 * Amongst the galaxy of thinkers in modern India, Dr Bhimrao Ramji Ambedkar stands on a pedestal quite different from others. This is because hiis life was a fight for the empanicpation of dalits.
 

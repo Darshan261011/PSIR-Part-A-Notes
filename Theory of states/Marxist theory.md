@@ -1,5 +1,19 @@
 # Marxist theory :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Marxist theory](#marxist-theory)
+- [Instrumentalists](#instrumentalsits)
+  - [Exponents](#exponents)
+- [Structuralists](#structuralists)
+  - [Exponents](#exponents-1)
+- [Managerial revolution](#managerial-revolution)
+- [Miliband–Poulantzas debate](#milibandpoulantzas-debate)
+- [Long- versus short-term class interests](#long--versus-short-term-class-interests)
+- [Conclusion](#conclusion)
+
+---
+
 ## Marxist theory
 
 - Acc to marxists, State is a part of superstructure, a reflection of base. And since base(means of economic production) are controlled by the capitalists, the state too is controlled by the capitalists.
@@ -21,7 +35,7 @@
 1. Marx  
 2. Lenin- state represents irreconcilability of the class conflict.  
 3. Ralph miliband  
-- book: state in a Capitalist society: says welfare state is a myth and wealth is still in the hands of few.  
+   - book: state in a Capitalist society: says welfare state is a myth and wealth is still in the hands of few.  
 
 ## Structuralists
 
@@ -53,23 +67,23 @@
 1. Marx  
 
 2. Gramsci  
-- says civil society makes the state appear autonomous from the capitalists but in reality it is not.  
+   - says civil society makes the state appear autonomous from the capitalists but in reality it is not.  
 
 3. Althusser  
-- ideological state apparatus and corecive state apparatus.  
+   - ideological state apparatus and corecive state apparatus.  
 
 4. Nicos poulantzas  
-- book- political power and social classes.  
+   - book- political power and social classes.  
 
-- 1. Being a structural marxist he awarded more importance to the elements of superstructure.  
+   - 1. Being a structural marxist he awarded more importance to the elements of superstructure.  
 
-- 2. Explains that in a pluralist society, there are diff social groups in a constant state of conflict.  
+   - 2. Explains that in a pluralist society, there are diff social groups in a constant state of conflict.  
 
-- 3. The state wants to cohere all the factions together which couldnt be achieved without the neutral stand of the state.  
+   - 3. The state wants to cohere all the factions together which couldnt be achieved without the neutral stand of the state.  
 
-- 4. Says state needs to achieve equilibrium and cannot be instrument of particular class at all times.  
+   - 4. Says state needs to achieve equilibrium and cannot be instrument of particular class at all times.  
 
-- 5. Becoz Of universal adult franchise the poor have got vote and hence the political parties have to offer something to every section of the society and since poor are in majority hence the state has no other choice but to become relatively autonomous from the capitalist class and become welfarist.  
+   - 5. Becoz Of universal adult franchise the poor have got vote and hence the political parties have to offer something to every section of the society and since poor are in majority hence the state has no other choice but to become relatively autonomous from the capitalist class and become welfarist.  
 
 ## Managerial revolution
 

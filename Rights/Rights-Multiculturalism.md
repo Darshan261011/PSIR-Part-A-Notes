@@ -1,5 +1,25 @@
 # Multi culturalism :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Exponents](#exponents)
+  - [1. Will kymlika](#1-will-kymlika)
+- [Indian context](#indian-context)
+- [Plural multiculturalist](#plural-multiculturalist)
+  - [Bhikhu parekh](#bhikhu-parekh)
+- [Further reading](#further-reading-)
+- [Critics of multi cult](#critics-of-multi-cult)
+  - [1. Feminist](#1-feminist--susan-moller-okin)
+  - [2. Liberal](#2-liberal)
+  - [3. Post colonial](#3-post-colonial--chandran-kukathas)
+  - [4. Cosmopolitan scholars](#4-cosmopolitan-scholars)
+- [Crisis of multiculturalism](#crisis-of-multiculturalism-)
+- [Conclusion](#conclusion-)
+- [Value pluralism](#value-pluralism-)
+
+---
+
 ## Intro:
 - In political science multiculturalism reflects a debate about how to understand and respond to the challenges associated with cultural diversity based on ethnic, national, and religious differences.
 

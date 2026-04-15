@@ -1,5 +1,23 @@
 # Marx :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Inspired by](#inspired-by)
+- [His ideas](#his-ideas)
+  - [Base and superstructure model](#base-and-superstructure-model)
+  - [Historical Materialism](#historical-materialism)
+  - [Level of consciousness](#level-of-consciousness)
+  - [Stages](#stages)
+- [Young Marx](#young-marx)
+  - [Four levels of alienation](#four-levels-of-alienation)
+- [Marx's critics](#marxs-critics)
+  - [Non marxists](#non-marxists)
+  - [By marxists](#by-marxists)
+- [Conclusion](#conclusion)
+
+---
+
 - Marx
 
 ## Intro:
@@ -126,7 +144,7 @@
 2. Althusser- calls economic reductionism. Gives multi structural approach(base structure influenced by many factors) to understand history hence called structural Marxist. Gave concept of interpellation.  
 
 3. Michael focoult  
-- Says Marx emphasises on relations of production but forgets relations of power. People may derive power from concept of patriarchy/heteronormativity. Power for focoult can come from various sources entirely unrealted to economic class.  
+   - Says Marx emphasises on relations of production but forgets relations of power. People may derive power from concept of patriarchy/heteronormativity. Power for focoult can come from various sources entirely unrealted to economic class.  
 
 ## Conclusion:
 

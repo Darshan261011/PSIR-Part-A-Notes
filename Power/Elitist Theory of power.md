@@ -1,25 +1,36 @@
 # Elitist theory of power :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Elitist theory of power](#elitist-theory-of-power)
+  - [Exponents](#exponents)
+- [Elitist theory of democracy](#elitist-thoery-of-democracy--based-on-elitist-theory-of-power)
+  - [Exponents](#exponents-1)
+- [Pluralist theory of power](#pluralist-theory-of-power-)
+- [Robert Dahl's survey - Polyarchy](#robert-dahls-survey-in-his-work--polyarchy-participation-and-opposition)
+
+---
+
 ## Elitist theory of power:
 
 ### Exponents:
 
 1. Oligarchy is iron law - by Robert michels  
-- In any form of govt liberal or socialist, power is only with the elites.  
-- In liberal countries many elites but in socialist counties only monolithic elite(single hegemonic party)  
-- In his book- political parties- says power remains with leadership of party whether it be socialist or liberal state.  
+   - In any form of govt liberal or socialist, power is only with the elites.  
+   - In liberal countries many elites but in socialist counties only monolithic elite(single hegemonic party)  
+   - In his book- political parties- says power remains with leadership of party whether it be socialist or liberal state.  
 
 2. pareto  
-- gave concept of circulation of Elietes in his book- mind and society.  
-- Said " history of mankind the is the graveyard of elites."  
+   - gave concept of circulation of Elietes in his book- mind and society.  
+   - Said " history of mankind the is the graveyard of elites."  
 
 3. mosca  
-- book- ruling class- said in democracy person with good organizational skills hold powers.  
+   - book- ruling class- said in democracy person with good organizational skills hold powers.  
 
 4. c wright mills  
-- gave concept of power elites.  
-- Said USA ruled by power elites( people occupying key positions in federal govt, military, corporate).  
-- Concluded USA is not a democracy but an oligarchy.  
+   - gave concept of power elites.  
+   - Said USA ruled by power elites( people occupying key positions in federal govt, military, corporate).  
+   - Concluded USA is not a democracy but an oligarchy.  
 
 ## Elitist thoery of democracy- based on elitist theory of power.
 
@@ -49,7 +60,7 @@
 2. Joseph Schumpeter  
 
 3. Anthony downs:  
-- market model of democracy: politicians are political entrepreneurs and voters are customers.  
+   - market model of democracy: politicians are political entrepreneurs and voters are customers.  
 
 ## Pluralist theory of power-
 

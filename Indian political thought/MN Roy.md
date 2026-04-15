@@ -1,8 +1,14 @@
-Here are your **clean structured notes (Markdown)** — strictly formatted without adding, removing, or modifying content:
+# M n roy
+
+## Table of Contents
+
+- [Intro](#intro)
+  - [His ideas](#his-ideas)
+- [Radical humanism](#radical-humanism)
+- [Ideational journey](#ideational-journey)
+- [Conclusion](#conclusion)
 
 ---
-
-# M n roy 
 
 ## Intro:
 
@@ -15,7 +21,7 @@ Here are your **clean structured notes (Markdown)** — strictly formatted witho
 
 ---
 
-# Radical humanism
+## Radical humanism
 
 1. Humanism is the philosophy that places humans at the centre of all analysis.
 
@@ -71,7 +77,7 @@ Here are your **clean structured notes (Markdown)** — strictly formatted witho
 
 ---
 
-# Ideational journey
+## Ideational journey
 
 1. 20s to 30s: started as revolutionary associated with yugantar , inspired by bagha jain
 
@@ -113,7 +119,7 @@ Here are your **clean structured notes (Markdown)** — strictly formatted witho
 
 ---
 
-# Conclusion:
+## Conclusion:
 
 * Sudipto kaviraj - calls him a remarkable failure. This is due to the fact that still Indian society has not reached to such level to adapt rationalist way of life espoused by Roy
 

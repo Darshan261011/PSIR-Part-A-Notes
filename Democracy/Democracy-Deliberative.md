@@ -1,5 +1,22 @@
 # Deliberative Democracy
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Supporters](#supporters)
+  - [Pericles](#pericles)
+  - [Aristotle](#aristotle)
+  - [Amartya Sen (Development as Freedom)](#amartya-sen-development-as-freedom)
+  - [Mill](#mill)
+  - [Arendt](#arendt)
+  - [Locke](#locke)
+  - [Habermas (Legitimation Crisis)](#habermas-legitimation-crisis)
+  - [Nancy Fraser](#nancy-fraser)
+  - [Joshua Cohen](#joshua-cohen)
+- [Conclusion](#conclusion)
+  - [Rawls (A Theory of Justice)](#rawls-a-theory-of-justice)
+
+---
+
 ### Introduction
 * **Deliberative Democracy** represents a system where laws are products of rational debate. It is a characteristic of open society.
 * While traditional democratic theory relied on voting as the source of legitimacy of democratic decision making, for deliberative democracy a democratic decision will be regarded as democratic only if it is the outcome of authentic deliberation.

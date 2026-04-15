@@ -1,5 +1,20 @@
 # Participatory democracy/direct democracy
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Supporters](#supporters)
+  - [1. Carole pateman](#1-carole-pateman)
+  - [2. Rousseau](#2-rousseau)
+  - [3. Gandhi](#3-gandhi)
+  - [4. Hannah arendt](#4-hannah-arendt)
+- [Radical democracy](#radical-democracy)
+  - [1. Habermas](#1-habermas)
+  - [2. agenda 21](#2-agenda-21)
+  - [3. Seyla benhabib](#3-seyla-benhabib)
+  - [4. Nancy fraser](#4-nancy-fraser)
+
+---
+
 ### Introduction
 * people themselves participate in governance through initiative, recall, referendum
 * People can be members of watchdog bodies like NHRC,NCW, etc

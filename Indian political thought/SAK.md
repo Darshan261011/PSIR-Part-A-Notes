@@ -1,5 +1,16 @@
 # Sir SAK
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Context](#context)
+- [His ideas](#his-ideas)
+- [Originator of two nation theory](#originator-of-two-nation-theory)
+- [Modern day relevance](#modern-day-relevance-)
+- [Conclusion](#conclusion)
+
+---
+
 ### Intro: 
 * was an islamic scholar, reformist and philosoher of 19th century.
 

@@ -1,5 +1,22 @@
 # Machiavelli :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Context](#context-)
+- [Ideas](#ideas)
+- [Advices](#advices)
+- [On religion](#on-religion)
+- [Dual morality](#dual-morality)
+- [Other points](#other-points)
+- [Kautilya and Machiavelli](#kautily-and-machiavelli)
+  - [Similarity](#similarity)
+  - [Differences](#differences)
+- [Critics](#critics)
+- [Conclusion](#conclusion)
+
+---
+
 ## intro:
 - was an Italian Renaissance diplomat, philosopher and writer, best known for The Prince, considered as best book ever on statecraft.
 

@@ -1,5 +1,15 @@
 # Marxism
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Classification](#classification)
+- [Key Exponents](#key-exponents)
+- [Small is Beautiful](#small-is-beautiful-by-e-f-schumacher)
+- [Conclusion](#conclusion)
+
+---
+
 ### Intro
 * **Marxism** is a social, political, and economic philosophy named after Karl Marx, which examines the effect of capitalism on labor, productivity, and economic development and argues for a worker revolution to overturn capitalism in favor of communism.
 

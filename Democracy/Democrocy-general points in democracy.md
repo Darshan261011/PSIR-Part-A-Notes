@@ -1,5 +1,16 @@
 # General points in democracy
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Cosmopolitan Model](#cosmopolitan-model)
+- [Contemporary Perspective](#contemporary-perspective)
+  - [1. Crisis of Democracy](#1-crisis-of-democracy)
+  - [2. Technology and Democracy](#2-technology-and-democracy)
+- [Success of Democracy](#success-of-democracy)
+- [Conclusion](#conclusion)
+
+---
+
 ### Introduction
 * **Democracy** is a contested concept in pol science. 
 * **J S Mill** defines democracy as government by discussion

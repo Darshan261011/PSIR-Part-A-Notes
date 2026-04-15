@@ -1,5 +1,19 @@
 # J s mill :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Context](#context)
+- [On reviving utilitarianism](#on-reviving-utilitarianism)
+- [On liberty](#on-liberty)
+- [Mill on democracy](#mill-on-democracy-)
+  - [Why reluctant democrat](#why-reluctant-democrat)
+- [Critics](#critics)
+- [Book - on subjugation of women](#book--on-subjugation-of-women)
+- [Conclusion](#conclusion)
+
+---
+
 ## Intro:
 - it is said that if anybody is liberal, it is Mill.
 

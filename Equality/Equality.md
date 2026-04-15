@@ -1,5 +1,20 @@
 # Equality: social, political and economic; relationship between equality and freedom; Affirmative action
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Ronald Dworkin's equality of resources that aims to achieve distributive justice](#ronald-dworkins-equality-of-resources-that-aims-to-achieve-distributive-justice)
+- [Criticism of dworkin's concept of equality](#criticism-of-dworkins-concept-of-equality)
+- [Comparison with Rawl's theory of justice](#comparison-with-rawls-theory-of-justice)
+- [Comparison with Nozick's theory of entitlement](#comparison-with-nozicks-theory-of-entitlement)
+- [Other Perspectives on Equality](#other-perspectives-on-equality)
+- [Equality and liberty](#equality-and-liberty)
+  - [Equality as Impediment to Liberty](#equality-as-impediment-to-liberty)
+  - [Equality and Liberty as Complementary](#equality-and-liberty-as-complementary)
+  - [Contemporary Context](#contemporary-context)
+- [Conclusion](#conclusion)
+
+---
+
 ### Introduction
 * Though Equality means "absence of privilege" it has been a 'loaded' and 'contested' concept in political science. 
 * This is because of various interpretations and dimensions of equality like formal equality, moral equality, equality of resources, of welfare, of opportunity, etc.

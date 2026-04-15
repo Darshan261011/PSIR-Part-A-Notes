@@ -1,5 +1,27 @@
 # Kautilya :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Context](#context)
+- [Book](#book)
+- [Arthashastra](#arthashastra)
+- [Ideas](#ideas)
+- [Mandal siddhant](#mandal-siddhant)
+- [Strategies](#strategies)
+- [On statecraft](#on-statecraft)
+- [Governance](#governance)
+- [On corruption](#on-corruption)
+- [Current relevance](#current-relevance)
+- [Book reference](#book-reference)
+- [Kautilya and Mach](#kautiya-and-mach)
+  - [Similarity](#similarity)
+  - [Differences](#differences)
+- [Criticism](#criticism)
+- [Conclusion](#conclusion)
+
+---
+
 ## Intro:
 - Father of indian strategic thought, statecraft and political economy. Was chandragupta maurya’s chief advisor and helped him defeat Nanda dynasty and establish the Mauryan dynasty.
 

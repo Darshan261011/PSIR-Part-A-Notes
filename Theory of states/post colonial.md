@@ -1,5 +1,20 @@
 # Post colonial :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [1.](#1)
+- [2.](#2)
+- [3.](#3)
+- [Neo Marxist analysis of post colonial state](#neo-marxist-analysis-of-post-colonial-state)
+  - [1: Instrumentalist approach](#1-instrumentalsit-approach)
+- [Contemporary](#contemporary)
+- [Cosmopolitan liberal scholars](#cosmopolitan-liberal-scholars)
+- [2. Structuralist approach / relative autonomy](#2-structuralist-approachrelative-autonomy)
+  - [a. Hamza alavi](#a-hamza-alavi)
+- [Conclusion](#conclusion)
+
+---
+
 - For states who came out of colonialism in the wake of ww2.
 
 ## 1.
@@ -35,23 +50,23 @@
 - The nuclear industry lobby wanted the Indo-US nuclear deal to happen to sell nuclear plant machinery to india.global private sector benefited immensely from 20-years of war worth $14 trillion in Afghanistan.
 
 1. Lenin:
-- expansionism is inherent in capitalism. Calls colonies as "dependency."
+   - expansionism is inherent in capitalism. Calls colonies as "dependency."
 
 2. A g Frank
-- a. Gave the concept of development of underdevelopment.
+   - a. Gave the concept of development of underdevelopment.
 
 3. Samir Amin
-- a. calls for peripheries to cut all ties with core countries.
-- b. book- accumulation on a world scale - showed how resources flowed from countires from periphery to core through a process called imperialist rent.
-- c. calls USA as the mother of terrorism and rise of usa as “empire of chaos”
-- d. wanted a multipolar world and calls for europe+china+india+russia to challenge US hegemony
+   - a. calls for peripheries to cut all ties with core countries.
+   - b. book- accumulation on a world scale - showed how resources flowed from countires from periphery to core through a process called imperialist rent.
+   - c. calls USA as the mother of terrorism and rise of usa as "empire of chaos"
+   - d. wanted a multipolar world and calls for europe+china+india+russia to challenge US hegemony
 
 4. Immanual wallerstein
-- world systems theory.
-- a. Said no third world, there is only one world connected by complex network of economic exchanges
-- b. Periphery forced to sell at low prices and import core product’s at high prices. Economic exchange between core and periphery is on unequal terms.
-- c. Says US hegemony is on decline, sees development of capitalism as detrimental to a large population. Predicts capitalism will be replaced by socialist economy.
-- d. Says post colonial states must go for “National Autonomous development.”
+   - world systems theory.
+   - a. Said no third world, there is only one world connected by complex network of economic exchanges
+   - b. Periphery forced to sell at low prices and import core product's at high prices. Economic exchange between core and periphery is on unequal terms.
+   - c. Says US hegemony is on decline, sees development of capitalism as detrimental to a large population. Predicts capitalism will be replaced by socialist economy.
+   - d. Says post colonial states must go for "National Autonomous development."
 
 ## Contemporary
 

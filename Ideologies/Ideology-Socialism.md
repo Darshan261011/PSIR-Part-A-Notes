@@ -1,5 +1,21 @@
 # Socialism
 
+## Table of Contents
+
+- [Intro](#intro)
+- [After Marx](#after-marx)
+  - [Democratic/evolutionary socialism](#democraticevolutionary-socialism)
+- [Varieties of Socialism](#varieties-of-socialism)
+  - [1. Fabian socialism](#1-fabian-socialism)
+  - [2. German social democracy](#2-german-social-democracy)
+  - [3. Syndicalism](#3-syndicalism)
+  - [4. Guild socialism](#4-guild-socialism)
+- [Contemporary relevance of socialism/Marxism](#contemporary-relevance-of-socialismmarxism)
+- [Criticism of socialism](#criticism-of-socialism)
+- [Conclusion](#conclusion)
+
+---
+
 ### Intro
 * **Joseph A schumpeter in Capitalism, socialism and democracy** defined socialism as The organisation of society in which the means of production are controlled and decision on how and what to produce and who is to get what are made by public authority instead of privately owned and privately managed firms
 * Evolved in the backdrop of socio-economic inequalities generated due to Industrial revolution. hence primarily an economic doctrine as it came against capitalism

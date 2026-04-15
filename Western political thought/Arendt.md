@@ -1,5 +1,26 @@
 # Hannah arendt :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Inspired by](#inspired-by)
+- [Context](#context)
+- [Theme of work](#theme-of-work)
+- [Her ideas](#her-ideas)
+- [How to end totalitarianism](#how-to-end-totalitarianism)
+- [Critic of modernity](#critic-of-modernity)
+- [Conception of banality of evil](#conception-of-banality-of-evil)
+- [Political Action](#political-action)
+- [Freedom](#freedom)
+- [Human action](#human-action)
+- [Action is important because](#action-is-important-because)
+- [Power](#power)
+- [Contemporary](#contemporary-)
+- [Criticism](#criticism)
+- [Conclusion](#conclusion)
+
+---
+
 ## Intro:
 - enjoys a rare designation of being a political philosopher in a male dominated discipline.
 - She is regarded as a heterodox thinker in the sense that her political philosophy doesn’t belong to any systematic philosophy.

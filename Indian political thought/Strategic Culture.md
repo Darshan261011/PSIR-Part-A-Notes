@@ -1,5 +1,13 @@
 ## Strategic Culture
 
+### Table of Contents
+
+- [Intro](#intro)
+- [Counters by](#counters-by)
+- [Conclusion](#conclusion)
+
+---
+
 ### Intro:
 * RAND corporation VP, George tanham in his 1992 paper, '**Indian Strategic Thought: An Interpretative Essay**' argued that the Indian elite had not systematically or coherently thought about national security and india is intellectually empty as far as political ideas are concerned.
 

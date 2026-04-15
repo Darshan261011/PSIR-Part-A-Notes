@@ -1,5 +1,25 @@
 # Gramsci :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Context](#context)
+- [Neo-marxism](#neo-marxism)
+- [Influence](#inlfuence)
+- [His ideas](#his-ideas)
+  - [Role of state](#role-of-state)
+  - [Why no revolution](#why-no-revolution)
+  - [To fight capitalism](#to-fight-captialism)
+- [Two schools of neo marxism](#two-schools-of-neo-marxism)
+  - [Critical or Frankfurt school](#critical-or-frankfurt-school)
+  - [Structural school](#structural-school)
+- [Criticism](#criticism)
+  - [Althusser](#althusser)
+  - [Michael Foucault](#michael-focoult)
+- [Conclusion](#conclusion)
+
+---
+
 - Gramsi- wrote his thoughts in "prison notebooks"
 
 ## Intro:
@@ -55,11 +75,11 @@
 ### To fight captialism:
 
 1. War of position-
-- build counter hegemony. Protracted war. Wants workers to build their own organic intellectual( those that come from the same class like engineers,scientists,managers are the organic intellectuals). Gramsci looks at european history and says traditional intellectuals were church fathers (those who did not come from amongst the masses but Become leaders of particular classes by ideological assuming the responsibility of those classes )Initially they resisted but then were co-opted by the bourgeoisis class to form “historical class. Workers need their own organic intellectuals like supervisors who can put in public domain their side of story. They must also bring traditional intellectuals to their side to form alternative coalition.
+   - build counter hegemony. Protracted war. Wants workers to build their own organic intellectual( those that come from the same class like engineers,scientists,managers are the organic intellectuals). Gramsci looks at european history and says traditional intellectuals were church fathers (those who did not come from amongst the masses but Become leaders of particular classes by ideological assuming the responsibility of those classes )Initially they resisted but then were co-opted by the bourgeoisis class to form "historical class. Workers need their own organic intellectuals like supervisors who can put in public domain their side of story. They must also bring traditional intellectuals to their side to form alternative coalition.
 
 2. War of manouvre -
-- direct action
-  - gandhi’s critic of western civilisarion was his war of position, by giving counter hegemony of swadeshi, satyagraha. Quit india movement was war of manouvre.
+   - direct action
+     - gandhi's critic of western civilisarion was his war of position, by giving counter hegemony of swadeshi, satyagraha. Quit india movement was war of manouvre.
 
 ## Two schools of neo marxism:
 

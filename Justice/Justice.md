@@ -1,5 +1,22 @@
 # All about Rawls , his theory and critics. :contentReference[oaicite:0]{index=0}
 
+## Table of Contents
+
+- [Intro](#intro)
+- [Context](#context)
+- [His theory of justice](#his-theory-of-justice)
+- [Inequality management](#inequality-management)
+- [Criticism](#criticism)
+  - [By feminists](#by-feminists-)
+  - [By libertarians](#by-libertarians-)
+  - [By social liberals](#by-social-liberals)
+- [Berlin](#berlin)
+- [By communitarians](#by-communitarians-)
+- [Rawls' response](#rawls-response)
+- [Conclusion](#conclusion)
+
+---
+
 ## Intro:
 - The idea of justice occupies centre stage in political philosophy.
 - John Rawls famously described justice as ‘the first virtue of social institutions’.
